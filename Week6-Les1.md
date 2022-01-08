@@ -159,7 +159,8 @@ biedt net zoals Microsoft de modgelijkheid om in te zien op een website aan Welk
 ### Google  
 
 Google biedt net als Microsoft en AWS de mogelijkheid om via de website te zien aan welke ISAE standaarden ze voldoen en welke types ze gehaald hebben. [website](https://cloud.google.com/security/compliance/offerings#/ "Google Cloud Compliance page") 
-Net zoals de andere bekende publieke cloud providers biedt Google ook de mogelijkheid om rapportages in te zien op de website.
+Net zoals de andere bekende publieke cloud providers biedt Google ook de mogelijkheid om rapportages in te zien op de website.  
+
 ---
 
 <br><br>
