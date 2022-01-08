@@ -1,4 +1,4 @@
-__gemaakt door Dennis & Coen __  
+gemaakt door Dennis & Coen   
 # Week 6, Lesson 1: Governance Frameworks
 
 ## Framework: ISAE 3402  
