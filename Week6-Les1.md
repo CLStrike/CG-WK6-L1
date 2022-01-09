@@ -56,7 +56,7 @@ SOC 2 van het ISAE 3402 framework heeft specifiek als doel om het Cloud Governan
 
 ## CloudGovernance in a nutshell.
  
-![CloudGovernance primary components](images/Group-15663.png "'primary components of a cloud governance framework.' ~ imperva.com")  
+![CloudGovernance primary components](Group-15663.png "'primary components of a cloud governance framework.' ~ imperva.com")  
 
 <details open>
 <summary>Cloud Financial Management  </summary>
